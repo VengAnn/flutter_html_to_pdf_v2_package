@@ -1,6 +1,6 @@
 name: flutter_html_to_pdf_v2
 description: A Flutter plugin to convert HTML content to PDF files with proper support for complex scripts like Khmer, Thai, Arabic, etc.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/puthsokha/flutter_html_to_pdf_v2
 repository: https://github.com/puthsokha/flutter_html_to_pdf_v2
 issue_tracker: https://github.com/puthsokha/flutter_html_to_pdf_v2/issues
